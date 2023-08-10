@@ -1,0 +1,21 @@
+
+
+div{
+    width: 70%;
+    margin-bottom: 10px;
+}
+.input > div{
+    display: flex;
+}
+.input label{
+    width: 30%;
+}
+.input input{
+    width: 50%;
+}
+.radio, .file, .checkbox{
+    display: flex;
+}
+.radio label, .checkbox label, .file label{
+    width: 21%;
+}
